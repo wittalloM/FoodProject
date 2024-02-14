@@ -1,0 +1,14 @@
+
+.Footer-Cont {
+    margin: 10px 5px;
+    padding: 5px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    place-items: center space-around;
+}
+
+.footer-txt {
+    padding: 10px;
+    font-size: 0.8em;
+    color: red;
+}
